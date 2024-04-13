@@ -1,0 +1,12 @@
+nav ul{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0;
+    background-color: blueviolet;
+}
+nav ul li{
+    list-style: none;
+    padding: 10px;
+}
+
